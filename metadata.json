@@ -1,0 +1,6 @@
+{
+  "name": "FX Macro Monitor & Funded Account Auditor",
+  "description": "Institutional quantitative macro monitor and multi-account funded trader audit dashboard with real rate differentials, 5% drawdown limits, and Looker Studio data pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
